@@ -13,12 +13,8 @@
     > git commit -m "Thông điệp commit"
 
 ### 5. Push code lên GitHub
-Lần đầu tiên:
 
     git push -u origin main
-Từ sau trở đi chỉ cần:
 
-    git push
-    
 ### 6. Pull về local
     > git pull origin main
