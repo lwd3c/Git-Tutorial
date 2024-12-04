@@ -1,4 +1,4 @@
-### Link tải: (git_windows_64)[https://git-scm.com/downloads/win]
+### Link tải: [git_windows_64](https://git-scm.com/downloads/win)
 
 ### 1. Khởi tạo kho lưu trữ
     > git init
