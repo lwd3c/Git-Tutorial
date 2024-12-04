@@ -1,5 +1,7 @@
 ### Link tải: [git_windows_64](https://git-scm.com/downloads/win)
 
+Đầu tiên tạo 1 folder mới để lưu trữ dữ liệu từ github. Sau đó mở **terminal** trong folder đó và dùng các lệnh sau:
+
 ### 1. Khởi tạo kho lưu trữ
     > git init
 
